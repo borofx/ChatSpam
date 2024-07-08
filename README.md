@@ -1,2 +1,2 @@
-# ChatSpam
+# SocialSpam
 състезателна задача 
